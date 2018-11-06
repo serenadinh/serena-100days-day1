@@ -7,17 +7,23 @@ html, body {
 	text-decoration: none;
 	text-transform: uppercase;
 	margin-left: 80px;
-	font-size: 45px
+	font-size: 45px;
+	letter-spacing: 10px;
 }
 #navbarNav {
-	font-family: 'Fjalla One', sans-serif;
+	font-family: 'Asap', sans-serif;
 	text-decoration: none;
 	text-transform: uppercase;
 	margin-right: 75px;
 	font-size: 15px;
 }
-footer {
-	font-family: 'Fjalla One', sans-serif;
+#landing-bottom {
+	padding-top: 25px;
+}
+.footer-notes {
+	padding: 25px;
+	margin: auto;
+	font-family: 'Asap', sans-serif;
 	font-size: 15px;
 	text-align: center;
 	text-transform: uppercase;
